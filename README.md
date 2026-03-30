@@ -4,12 +4,12 @@ For creating a good RAG pipeline, one needs to take correct decisions based on t
 
 Steps to create a good RAG Pipeline:
 
-Data Ingestion
-Chunking
-Choosing an Embedding Model and Database
-Embedding
-Selection of a LLM Model
-Prepare System Prompt
-Try Different LLM Models
-Fine Tuning System Prompt based on the Answers
-Final Model
+- Data Ingestion
+- Chunking
+- Choosing an Embedding Model and Database
+- Embedding
+- Selection of a LLM Model
+- Prepare System Prompt
+- Try Different LLM Models
+- Fine Tuning System Prompt based on the Answers
+- Final Model
