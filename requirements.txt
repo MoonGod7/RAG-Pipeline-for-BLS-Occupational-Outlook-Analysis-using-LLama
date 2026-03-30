@@ -1,0 +1,26 @@
+# RAG Pipeline Requirements
+# BLS Occupational Outlook Handbook — People Analytics Project
+# Install all dependencies: pip install -r requirements.txt
+
+# LangChain core & community
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+
+# Vector store
+chromadb
+
+# LLM / API
+ollama
+openai
+
+# Data & utilities
+pandas
+numpy
+tqdm
+
+# OS / system (built-in, listed for reference)
+# os — part of Python standard library, no install needed
